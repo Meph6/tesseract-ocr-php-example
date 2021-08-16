@@ -1,0 +1,6 @@
+{
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.11",
+        "symfony/process": "^5.2"
+    }
+}
